@@ -122,7 +122,7 @@ So fligits cut the maximum error by better than half, from 33% to 15%. If you fe
 
 So now I actually use fligits for estimating country populations: as far as my flash cards are concerned, the population of Switzerland is 10,000,000, and the populations of Rwanda and Benin are both 15,000,000. All of these are guaranteed to be within 15%, which if anything is possibly *more* precise than I really need.
 
-![image-20260313114859496](/home/kyle/snap/typora/112/.config/Typora/typora-user-images/image-20260313114859496.png)
+<img src="anki-card-with-fligit.png" alt="An Anki flash card showing that Brazil has a population of 200,000,000."/>
 
 I use fligits for other memorization stuff too.
 
@@ -166,7 +166,7 @@ Real answer: 146,422,800. Estimate was wrong by: 2.5%.
 
 Besides these functional properties, I find fligits just pleasant numbers in general.
 
-![image-20260317105733445](/home/kyle/snap/typora/112/.config/Typora/typora-user-images/image-20260317105733445.png)
+<img src="fligit-graph.png" alt="A bar graph of the fligits 1 through 10, each fligit divided into unit blocks, showing a nice sloped progression."/>
 
 They start at 1, then step up by a quarter, a quarter, a half, a half, a half, 1, 1, 1, 2, 2, and then it restarts at 10.
 
