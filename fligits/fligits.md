@@ -138,7 +138,7 @@ That said, there are a few extra, optional benefits of fligits that I'd like to 
 
 ### Fligits are powers of 10^0.1
 
-Fligits started as powers of 0.1. As a result, the fligits are very close to this convenient series:
+Fligits started as powers of 10^0.1. As a result, the fligits are very close to this convenient series:
 
 10^0.0, 10^0.1, 10^0.2, 10^0.3, 10^0.4, 10^0.5, 10^0.6, 10^0.7, 10^0.8, 10^0.9,
 
