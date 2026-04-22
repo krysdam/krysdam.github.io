@@ -12,9 +12,7 @@ body {
     font-family: "Ubuntu Sans", "Ubuntu", Helvetica, sans-serif;
     color: rgb(51, 51, 51);
     line-height: 1.25;
-}
 
-#write {
     max-width: 860px;
     margin: 0 auto;
     padding: 30px;
@@ -22,20 +20,15 @@ body {
 }
 
 @media only screen and (min-width: 1400px) {
-    #write {
+    body {
         max-width: 1024px;
     }
 }
 
 @media only screen and (min-width: 1800px) {
-    #write {
+    body {
         max-width: 1200px;
     }
-}
-
-#write>ul:first-child,
-#write>ol:first-child {
-    margin-top: 15px;
 }
 
 a {
